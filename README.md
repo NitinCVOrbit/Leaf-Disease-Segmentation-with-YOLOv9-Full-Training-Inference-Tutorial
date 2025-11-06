@@ -9,7 +9,7 @@ Includes dataset download, YAML setup, training, inference, and visualization ut
 - One-click dataset downloader (Google Drive → `gdown`)
 - Auto folder organization under `datasets/`
 - Auto-generated `leaf_disease_segmentation.yaml`
-- YOLOv9(e)-Seg (or YOLOv8-Seg fallback) training config with strong augmentations
+- YOLOv9(e)-Seg training config with strong augmentations
 - Random batch inference + mask overlay visualization
 
 ---
